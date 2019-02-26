@@ -39,3 +39,17 @@ Description: !!
 Name: bytafont3(ios11)
 Author: brook <brook0903@gmail.com>
 Depiction: brook0903.github.io/repo2
+
+Package: com.bytafont.bytafont3
+Version: 3.6
+Section: Tweaks
+Maintainer: brook <brook0903@gmail.com>
+Depends: com.bytafont.bytafont3, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Bytafont-tm.deb
+Size: 7260
+MD5sum: a387eea6f8816e19ae45ff0284ac145b
+Description: !!
+Name: Bytafont Tweak Mode 
+Author: brook <brook0903@gmail.com>
+Depiction: brook0903.github.io/repo2
