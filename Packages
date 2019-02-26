@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.bytafont.bytafont3
+Version: 3.6
+Section: Tweaks
+Maintainer: brook <brook0903@gmail.com>
+Depends: firmware (>=11.0), unzip, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.bytafont.bytafont3.deb
+Size: 774026
+MD5sum: 5563a85e0b99c5222d4982a59aa2f7da
+Description: !!
+Name: bytafont3(ios11)
+Author: brook <brook0903@gmail.com>
+Depiction: brook0903.github.io/repo2
