@@ -53,3 +53,17 @@ Description: !!
 Name: Bytafont Tweak Mode 
 Author: brook <brook0903@gmail.com>
 Depiction: brook0903.github.io/repo2
+
+Package: com.spark.batterypercentx
+Version: 1.3.5-2
+Section: Tweaks
+Maintainer: brook <brook0903@gmail.com>
+Depends: preferenceloader, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.spark.batterypercentx.deb
+Size: 133046
+MD5sum: 6e2ddcc3f73efabfab0d82011f4bc1f2
+Description: !!
+Name:  BatteryPercent X
+Author: brook <brook0903@gmail.com>
+Depiction: brook0903.github.io/repo2
