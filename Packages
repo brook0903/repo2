@@ -67,3 +67,45 @@ Description: !!
 Name:  BatteryPercent X
 Author: brook <brook0903@gmail.com>
 Depiction: brook0903.github.io/repo2
+
+Package: com.unlimapps.typp
+Version: 1.4r-96
+Section: Tweaks
+Maintainer: brook <brook0903@gmail.com>
+Depends: mobilesubstrate, firmware (>= 7.0), com.unlimapps.uamediaexporthelper (>= 1.0r-15) | firmware (>= 10.0), com.unlimapps.uasharedtools (>= 2.2r-76)
+Architecture: iphoneos-arm
+Filename: ./debs/yt++.deb
+Size: 4665520
+MD5sum: 268051f4aab60f86561d99b653e4db98
+Description: !!
+Name:  YT ++ for YouTube
+Author: brook <brook0903@gmail.com>
+Depiction: brook0903.github.io/repo2
+
+Package: com.unlimapps.uasharedtools.nostash
+Version: 2.2r-76
+Section: Tweaks
+Maintainer: brook <brook0903@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.unlimapps.uasharedtools.nostash_2.2r-76_iphoneos-arm.deb
+Size: 23624784
+MD5sum: 4220a2be422555a937ae039848b787da
+Description: !!
+Name:  uasharedtools (iOS 11)
+Author: brook <brook0903@gmail.com>
+Depiction: brook0903.github.io/repo2
+
+Package: com.unlimapps.uasharedtools
+Version: 2.2r-76
+Section: Tweaks
+Maintainer: brook <brook0903@gmail.com>
+Depends: com.unlimapps.uasharedtools.nostash | com.unlimapps.uasharedtools.stash
+Architecture: iphoneos-arm
+Filename: ./debs/com.unlimapps.uasharedtools_2.2r-76_iphoneos-arm.deb
+Size: 672
+MD5sum: e9634f66f0978dd63a2ccb8c725bb05b
+Description: !!
+Name:  uasharedtools
+Author: brook <brook0903@gmail.com>
+Depiction: brook0903.github.io/repo2
