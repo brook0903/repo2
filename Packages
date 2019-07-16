@@ -84,7 +84,7 @@ Depiction: brook0903.github.io/repo2
 
 Package: com.unlimapps.uasharedtools.nostash
 Version: 2.2r-76
-Section: Tweaks
+Section: Development
 Maintainer: brook <brook0903@gmail.com>
 Depends: mobilesubstrate, firmware (>= 11.0)
 Architecture: iphoneos-arm
@@ -98,7 +98,7 @@ Depiction: brook0903.github.io/repo2
 
 Package: com.unlimapps.uasharedtools
 Version: 2.2r-76
-Section: Tweaks
+Section: Development
 Maintainer: brook <brook0903@gmail.com>
 Depends: com.unlimapps.uasharedtools.nostash | com.unlimapps.uasharedtools.stash
 Architecture: iphoneos-arm
