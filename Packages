@@ -117,17 +117,17 @@ Author: brook <brook0903@gmail.com>
 Depiction: brook0903.github.io/repo2
 
 Package: github.io.brook0903.dleasy
-Version: 2.6.6
+Version: 2.0.1
 Section: Tweaks
 Maintainer: brook <brook0903@gmail.com>
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: ./debs/dleasy2.6.6.deb
-Size: 1259008
-MD5sum: eb8f3ce8a36bb4cb263345329fdbc52a
-SHA1: fccd7aea9b788df7ef318807e77635fc5484dce6
-SHA256: 08a21d7b52c67e3465d1de10246b7571cd91a3d489b8c5b8b080ef1dcd3bd767
+Filename: ./debs/dleasy_2.0.1.deb
+Size: 821700
+MD5sum: e1bd72a8104a3cfb78dea41469b9a869
+SHA1: 4a949222a9ca3555ba942c9b6056dfba94ae4a0d
+SHA256: f2b912ea0d0ddb439fbba3f7bd63428198a9de139e5afca5db42ca86bab83845
 Description: !!
-Name:  dleasy
+Name:  dleasy2.0.1
 Author: brook <brook0903@gmail.com>
 Depiction: brook0903.github.io/repo2
