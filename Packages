@@ -123,7 +123,7 @@ Maintainer: brook <brook0903@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
 Architecture: iphoneos-arm
 Filename: ./debs/dleasy2.6.6.deb
-Size: 2454220
+Size: 1259008
 MD5sum: eb8f3ce8a36bb4cb263345329fdbc52a
 SHA1: fccd7aea9b788df7ef318807e77635fc5484dce6
 SHA256: 08a21d7b52c67e3465d1de10246b7571cd91a3d489b8c5b8b080ef1dcd3bd767
